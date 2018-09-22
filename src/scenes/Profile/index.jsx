@@ -1,11 +1,23 @@
 import React, { Component } from 'react';
+import { Row, Col } from 'react-bootstrap';
+import Account from '../../components/Account';
+import Services from '../../components/Services';
 
 class Profile extends Component {
 	render() {
 		return (
-				<p className="App-intro">
-					To get started, edit <code>src/App.js</code> and save to reload.
-				</p>
+			<Row>
+				<Col md={7}>
+					<Account
+						{...this.props}
+					/>
+				</Col>
+				<Col md={5}>
+					<Services
+						{...this.props}
+					/>
+				</Col>
+			</Row>
 		);
 	}
 }
