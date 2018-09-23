@@ -23,7 +23,7 @@ class Languages extends Component {
 		return (
 			<Container md={12}>
 				<Title>
-					LANGUAGES
+					{this.props.title}
 				</Title>
 				<StyledLanguages>
 					{this.renderLanguages()}

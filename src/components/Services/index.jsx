@@ -6,6 +6,7 @@ import Service from '../Service';
 const Container = styled(Col)`
   display: flex;
   flex-direction: column;
+  background-color: #ffffff;
 `;
 
 const Title = styled.h3`

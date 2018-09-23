@@ -14,7 +14,6 @@ const StyledAvatar = styled(Col)`
 	border-radius: 50%;
 	background-image: url(${(props) => props.photo ? props.photo : avatar});
   background-size: cover;
-	background-color: red;
 `;
 
 const Available = styled.div`
@@ -90,8 +89,8 @@ class PersonalInfo extends Component {
 	render() {
 		return (
 			<Container md={12}>
-				<StyledAvatar md={4} photo={this.props.photo}/>
-				<Col md={6}>
+				<StyledAvatar sm={4} md={4} photo={this.props.photo}/>
+				<Col md={6} sm={12}>
 					<Title>
 						{this.props.category} {this.props.name}
 					</Title>
@@ -104,7 +103,7 @@ class PersonalInfo extends Component {
 					</Address>
 					{this.renderOtherInfo()}
 				</Col>
-				<Col md={2}>
+				<Col md={2} sm={12}>
 					{this.renderAvailable()}
 				</Col>
 		</Container>

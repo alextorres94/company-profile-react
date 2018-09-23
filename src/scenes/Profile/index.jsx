@@ -7,12 +7,12 @@ class Profile extends Component {
 	render() {
 		return (
 			<Row>
-				<Col md={7}>
+				<Col md={7} sm={12}>
 					<Account
 						{...this.props}
 					/>
 				</Col>
-				<Col md={5}>
+				<Col md={5} sm={12}>
 					<Services
 						{...this.props}
 					/>
