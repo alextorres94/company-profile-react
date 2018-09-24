@@ -22,9 +22,9 @@ localhost:3000/profile/2
 ## API
 
 We use json-server to mock api:
+First downloadd and install [json-server](https://github.com/typicode/json-server)
 
 ```sh
-Download and install [json-server](https://github.com/typicode/json-server)
 cd colba/api
 json-server --watch db.json --routes routes.json --port 3001
 ```
