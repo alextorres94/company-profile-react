@@ -12,6 +12,13 @@ cd colba
 npm install
 ```
 
+## Routes
+
+```sh
+localhost:3000/profile/1
+localhost:3000/profile/2
+```
+
 ## API
 
 We use json-server to mock api:
