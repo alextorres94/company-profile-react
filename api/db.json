@@ -48,63 +48,63 @@
             },
             {
                 "title": "Service two",
-                "price": 5                
+                "price": 5               
             },
             {
                 "title": "Other service",
+                "price": 55
+            },
+            {
+                "title": "Relative reference service",
+                "price": 87
+            },
+            {
+                "title": "Other service in space",
+                "price": 204
+            },
+            {
+                "title": "automatically get turned",
+                "price": 68
+            },
+            {
+                "title": "Other service Amsterjam",
                 "price": 190
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "Boundaries of Goods",
+                "price": 10
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "I'm a reference-style link",
+                "price": 90
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "Cicero's text doesn't contain",
+                "price": 19
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "Other service June",
+                "price": 14
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "elements of a document",
+                "price": 24
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "Think of a news blog",
+                "price": 69
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "purposes. Neque portr",
+                "price": 45
             },
             {
-                "title": "Other service",
-                "price": 190
+                "title": "of publications at Ham",
+                "price": 10
             },
             {
-                "title": "Other service",
-                "price": 190
-            },
-            {
-                "title": "Other service",
-                "price": 190
-            },
-            {
-                "title": "Other service",
-                "price": 190
-            },
-            {
-                "title": "Other service",
-                "price": 190
-            },
-            {
-                "title": "Other service",
-                "price": 190
+                "title": "industry. Lorem Ipsum has",
+                "price": 204
             }
         ]
 
