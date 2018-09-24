@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
+import PropTypes from 'prop-types';
 
 const Section = styled.div`
 	border-bottom: 1px solid #b4b4b35c;
@@ -135,6 +136,12 @@ class Service extends Component {
 		)
 	}
 }
+
+Service.propTypes = {
+	price: PropTypes.number,
+	currency: PropTypes.string,
+	title: PropTypes.string
+};
 
 export default Service;
 

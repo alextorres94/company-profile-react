@@ -16,7 +16,8 @@ class Account extends Component {
 	render() {
 		return (
 			<Container>
-				<PersonalInfo {...this.props}/>
+				<PersonalInfo 
+					{...this.props}/>
 				<Languages
 					title='LANGUAGES'
 					{...this.props}/>

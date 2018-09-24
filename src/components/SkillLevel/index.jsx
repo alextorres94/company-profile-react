@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
+import PropTypes from 'prop-types';
 
 const StyledSkillLevel = styled.div`
 	display: flex;
@@ -68,6 +69,11 @@ class SkillLevel extends Component {
 		);
 	}
 }
+
+SkillLevel.propTypes = {
+	propriety: PropTypes.string,
+	level: PropTypes.string,
+};
 
 export default SkillLevel;
 

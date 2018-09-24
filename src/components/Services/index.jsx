@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import styled from 'styled-components';
 import { Col } from 'react-bootstrap';
 import Service from '../Service';
+import PropTypes from 'prop-types';
 
 const Container = styled(Col)`
   display: flex;
@@ -42,5 +43,10 @@ class Services extends Component {
 			/>);
 	}
 }
+
+Services.propTypes = {
+	services: PropTypes.array,
+	currency: PropTypes.string,
+};
 
 export default Services;

@@ -23,8 +23,8 @@ class CustomButton extends Component {
 	}
 }
 
-export default CustomButton;
-
 CustomButton.propTypes = {
 	text: PropTypes.string
 };
+
+export default CustomButton;

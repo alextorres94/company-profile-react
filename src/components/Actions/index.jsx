@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import styled from 'styled-components';
 import { Col } from 'react-bootstrap';
 import Button from '../Button';
+import PropTypes from 'prop-types';
 
 const Container = styled(Col)`
 	display: flex;
@@ -26,22 +27,29 @@ class Actions extends Component {
 		return (
 			<Container md={12}>
 				<Title>
-					PROFILE
+					{this.props.title}
 				</Title>
 				<StyledActions>
 					<Button
 						text='Back'
+						onClick={() => alert('Back')}
 					/>
 					<Button
 						text='Edit profile'
+						onClick={() => alert('Edit profile')}
 					/>
 					<Button
 						text='Edit offer'
+						onClick={() => alert('Edit offer')}
 					/>
 				</StyledActions>
 			</Container>
 		);
 	}
 }
+
+Actions.propTypes = {
+	title: PropTypes.string
+};
 
 export default Actions;
