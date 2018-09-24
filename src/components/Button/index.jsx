@@ -16,7 +16,9 @@ const StyledButton = styled(Button)`
 class CustomButton extends Component {
 	render() {
 		return (
-				<StyledButton>
+				<StyledButton
+					onClick={this.props.onClick}
+					>
 					{this.props.text}
 				</StyledButton>
 		);

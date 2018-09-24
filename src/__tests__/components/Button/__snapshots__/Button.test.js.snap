@@ -319,7 +319,7 @@ ReactWrapper {
           "_debugIsCurrentlyTiming": false,
           "_debugOwner": [Circular],
           "_debugSource": Object {
-            "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+            "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
             "lineNumber": 19,
           },
           "actualDuration": 0,
@@ -354,6 +354,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX btn btn-default",
                 "disabled": false,
+                "onClick": [Function],
                 "type": "button",
               },
               "memoizedState": null,
@@ -363,6 +364,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX btn btn-default",
                 "disabled": false,
+                "onClick": [Function],
                 "type": "button",
               },
               "ref": null,
@@ -396,6 +398,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX",
               "disabled": false,
+              "onClick": [Function],
             },
             "memoizedState": null,
             "mode": 0,
@@ -408,6 +411,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX",
               "disabled": false,
+              "onClick": [Function],
             },
             "ref": null,
             "return": [Circular],
@@ -425,6 +429,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "refs": Object {},
               "state": null,
@@ -450,6 +455,7 @@ ReactWrapper {
           "lastEffect": null,
           "memoizedProps": Object {
             "children": "Text button",
+            "onClick": [Function],
           },
           "memoizedState": Object {
             "generatedClassName": "fbAFpX",
@@ -459,6 +465,7 @@ ReactWrapper {
           "nextEffect": null,
           "pendingProps": Object {
             "children": "Text button",
+            "onClick": [Function],
           },
           "ref": null,
           "return": [Circular],
@@ -481,6 +488,7 @@ ReactWrapper {
             },
             "props": Object {
               "children": "Text button",
+              "onClick": [Function],
             },
             "refs": Object {},
             "state": Object {
@@ -1501,7 +1509,7 @@ ReactWrapper {
             "updateQueue": null,
           },
           "_debugSource": Object {
-            "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+            "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
             "lineNumber": 19,
           },
           "actualDuration": 0,
@@ -1536,6 +1544,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX btn btn-default",
                 "disabled": false,
+                "onClick": [Function],
                 "type": "button",
               },
               "memoizedState": null,
@@ -1545,6 +1554,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX btn btn-default",
                 "disabled": false,
+                "onClick": [Function],
                 "type": "button",
               },
               "ref": null,
@@ -1578,6 +1588,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX",
               "disabled": false,
+              "onClick": [Function],
             },
             "memoizedState": null,
             "mode": 0,
@@ -1590,6 +1601,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX",
               "disabled": false,
+              "onClick": [Function],
             },
             "ref": null,
             "return": [Circular],
@@ -1607,6 +1619,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "refs": Object {},
               "state": null,
@@ -1632,6 +1645,7 @@ ReactWrapper {
           "lastEffect": null,
           "memoizedProps": Object {
             "children": "Text button",
+            "onClick": [Function],
           },
           "memoizedState": Object {
             "generatedClassName": "fbAFpX",
@@ -1641,6 +1655,7 @@ ReactWrapper {
           "nextEffect": null,
           "pendingProps": Object {
             "children": "Text button",
+            "onClick": [Function],
           },
           "ref": null,
           "return": FiberNode {
@@ -2306,6 +2321,7 @@ ReactWrapper {
         },
         "props": Object {
           "children": "Text button",
+          "onClick": [Function],
         },
         "refs": Object {},
         "state": Object {
@@ -2324,6 +2340,7 @@ ReactWrapper {
       "nodeType": "class",
       "props": Object {
         "children": "Text button",
+        "onClick": [Function],
       },
       "ref": null,
       "rendered": Object {
@@ -2968,7 +2985,7 @@ ReactWrapper {
                 "updateQueue": null,
               },
               "_debugSource": Object {
-                "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+                "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
                 "lineNumber": 19,
               },
               "actualDuration": 0,
@@ -2985,6 +3002,7 @@ ReactWrapper {
               "lastEffect": null,
               "memoizedProps": Object {
                 "children": "Text button",
+                "onClick": [Function],
               },
               "memoizedState": Object {
                 "generatedClassName": "fbAFpX",
@@ -2994,6 +3012,7 @@ ReactWrapper {
               "nextEffect": null,
               "pendingProps": Object {
                 "children": "Text button",
+                "onClick": [Function],
               },
               "ref": null,
               "return": FiberNode {
@@ -3648,6 +3667,7 @@ ReactWrapper {
                 },
                 "props": Object {
                   "children": "Text button",
+                  "onClick": [Function],
                 },
                 "refs": Object {},
                 "state": Object {
@@ -3705,6 +3725,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX btn btn-default",
                 "disabled": false,
+                "onClick": [Function],
                 "type": "button",
               },
               "memoizedState": null,
@@ -3714,6 +3735,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX btn btn-default",
                 "disabled": false,
+                "onClick": [Function],
                 "type": "button",
               },
               "ref": null,
@@ -3747,6 +3769,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX",
               "disabled": false,
+              "onClick": [Function],
             },
             "memoizedState": null,
             "mode": 0,
@@ -3759,6 +3782,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX",
               "disabled": false,
+              "onClick": [Function],
             },
             "ref": null,
             "return": FiberNode {
@@ -4398,7 +4422,7 @@ ReactWrapper {
                 "updateQueue": null,
               },
               "_debugSource": Object {
-                "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+                "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
                 "lineNumber": 19,
               },
               "actualDuration": 0,
@@ -4415,6 +4439,7 @@ ReactWrapper {
               "lastEffect": null,
               "memoizedProps": Object {
                 "children": "Text button",
+                "onClick": [Function],
               },
               "memoizedState": Object {
                 "generatedClassName": "fbAFpX",
@@ -4424,6 +4449,7 @@ ReactWrapper {
               "nextEffect": null,
               "pendingProps": Object {
                 "children": "Text button",
+                "onClick": [Function],
               },
               "ref": null,
               "return": FiberNode {
@@ -5078,6 +5104,7 @@ ReactWrapper {
                 },
                 "props": Object {
                   "children": "Text button",
+                  "onClick": [Function],
                 },
                 "refs": Object {},
                 "state": Object {
@@ -5128,6 +5155,7 @@ ReactWrapper {
             "children": "Text button",
             "className": "sc-bdVaJa fbAFpX",
             "disabled": false,
+            "onClick": [Function],
           },
           "refs": Object {},
           "state": null,
@@ -5148,6 +5176,7 @@ ReactWrapper {
           "children": "Text button",
           "className": "sc-bdVaJa fbAFpX",
           "disabled": false,
+          "onClick": [Function],
         },
         "ref": null,
         "rendered": Object {
@@ -5163,6 +5192,7 @@ ReactWrapper {
             "children": "Text button",
             "className": "sc-bdVaJa fbAFpX btn btn-default",
             "disabled": false,
+            "onClick": [Function],
             "type": "button",
           },
           "ref": null,
@@ -5481,7 +5511,7 @@ ReactWrapper {
             "_debugIsCurrentlyTiming": false,
             "_debugOwner": [Circular],
             "_debugSource": Object {
-              "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+              "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
               "lineNumber": 19,
             },
             "actualDuration": 0,
@@ -5516,6 +5546,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX btn btn-default",
                   "disabled": false,
+                  "onClick": [Function],
                   "type": "button",
                 },
                 "memoizedState": null,
@@ -5525,6 +5556,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX btn btn-default",
                   "disabled": false,
+                  "onClick": [Function],
                   "type": "button",
                 },
                 "ref": null,
@@ -5558,6 +5590,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "memoizedState": null,
               "mode": 0,
@@ -5570,6 +5603,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "ref": null,
               "return": [Circular],
@@ -5587,6 +5621,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX",
                   "disabled": false,
+                  "onClick": [Function],
                 },
                 "refs": Object {},
                 "state": null,
@@ -5612,6 +5647,7 @@ ReactWrapper {
             "lastEffect": null,
             "memoizedProps": Object {
               "children": "Text button",
+              "onClick": [Function],
             },
             "memoizedState": Object {
               "generatedClassName": "fbAFpX",
@@ -5621,6 +5657,7 @@ ReactWrapper {
             "nextEffect": null,
             "pendingProps": Object {
               "children": "Text button",
+              "onClick": [Function],
             },
             "ref": null,
             "return": [Circular],
@@ -5643,6 +5680,7 @@ ReactWrapper {
               },
               "props": Object {
                 "children": "Text button",
+                "onClick": [Function],
               },
               "refs": Object {},
               "state": Object {
@@ -6663,7 +6701,7 @@ ReactWrapper {
               "updateQueue": null,
             },
             "_debugSource": Object {
-              "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+              "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
               "lineNumber": 19,
             },
             "actualDuration": 0,
@@ -6698,6 +6736,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX btn btn-default",
                   "disabled": false,
+                  "onClick": [Function],
                   "type": "button",
                 },
                 "memoizedState": null,
@@ -6707,6 +6746,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX btn btn-default",
                   "disabled": false,
+                  "onClick": [Function],
                   "type": "button",
                 },
                 "ref": null,
@@ -6740,6 +6780,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "memoizedState": null,
               "mode": 0,
@@ -6752,6 +6793,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "ref": null,
               "return": [Circular],
@@ -6769,6 +6811,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX",
                   "disabled": false,
+                  "onClick": [Function],
                 },
                 "refs": Object {},
                 "state": null,
@@ -6794,6 +6837,7 @@ ReactWrapper {
             "lastEffect": null,
             "memoizedProps": Object {
               "children": "Text button",
+              "onClick": [Function],
             },
             "memoizedState": Object {
               "generatedClassName": "fbAFpX",
@@ -6803,6 +6847,7 @@ ReactWrapper {
             "nextEffect": null,
             "pendingProps": Object {
               "children": "Text button",
+              "onClick": [Function],
             },
             "ref": null,
             "return": FiberNode {
@@ -7468,6 +7513,7 @@ ReactWrapper {
           },
           "props": Object {
             "children": "Text button",
+            "onClick": [Function],
           },
           "refs": Object {},
           "state": Object {
@@ -7486,6 +7532,7 @@ ReactWrapper {
         "nodeType": "class",
         "props": Object {
           "children": "Text button",
+          "onClick": [Function],
         },
         "ref": null,
         "rendered": Object {
@@ -8130,7 +8177,7 @@ ReactWrapper {
                   "updateQueue": null,
                 },
                 "_debugSource": Object {
-                  "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+                  "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
                   "lineNumber": 19,
                 },
                 "actualDuration": 0,
@@ -8147,6 +8194,7 @@ ReactWrapper {
                 "lastEffect": null,
                 "memoizedProps": Object {
                   "children": "Text button",
+                  "onClick": [Function],
                 },
                 "memoizedState": Object {
                   "generatedClassName": "fbAFpX",
@@ -8156,6 +8204,7 @@ ReactWrapper {
                 "nextEffect": null,
                 "pendingProps": Object {
                   "children": "Text button",
+                  "onClick": [Function],
                 },
                 "ref": null,
                 "return": FiberNode {
@@ -8810,6 +8859,7 @@ ReactWrapper {
                   },
                   "props": Object {
                     "children": "Text button",
+                    "onClick": [Function],
                   },
                   "refs": Object {},
                   "state": Object {
@@ -8867,6 +8917,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX btn btn-default",
                   "disabled": false,
+                  "onClick": [Function],
                   "type": "button",
                 },
                 "memoizedState": null,
@@ -8876,6 +8927,7 @@ ReactWrapper {
                   "children": "Text button",
                   "className": "sc-bdVaJa fbAFpX btn btn-default",
                   "disabled": false,
+                  "onClick": [Function],
                   "type": "button",
                 },
                 "ref": null,
@@ -8909,6 +8961,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "memoizedState": null,
               "mode": 0,
@@ -8921,6 +8974,7 @@ ReactWrapper {
                 "children": "Text button",
                 "className": "sc-bdVaJa fbAFpX",
                 "disabled": false,
+                "onClick": [Function],
               },
               "ref": null,
               "return": FiberNode {
@@ -9560,7 +9614,7 @@ ReactWrapper {
                   "updateQueue": null,
                 },
                 "_debugSource": Object {
-                  "fileName": "/Users/alextorres/code/colba/src/components/Button/index.jsx",
+                  "fileName": "/home/atorres/code/examples/colba/src/components/Button/index.jsx",
                   "lineNumber": 19,
                 },
                 "actualDuration": 0,
@@ -9577,6 +9631,7 @@ ReactWrapper {
                 "lastEffect": null,
                 "memoizedProps": Object {
                   "children": "Text button",
+                  "onClick": [Function],
                 },
                 "memoizedState": Object {
                   "generatedClassName": "fbAFpX",
@@ -9586,6 +9641,7 @@ ReactWrapper {
                 "nextEffect": null,
                 "pendingProps": Object {
                   "children": "Text button",
+                  "onClick": [Function],
                 },
                 "ref": null,
                 "return": FiberNode {
@@ -10240,6 +10296,7 @@ ReactWrapper {
                   },
                   "props": Object {
                     "children": "Text button",
+                    "onClick": [Function],
                   },
                   "refs": Object {},
                   "state": Object {
@@ -10290,6 +10347,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX",
               "disabled": false,
+              "onClick": [Function],
             },
             "refs": Object {},
             "state": null,
@@ -10310,6 +10368,7 @@ ReactWrapper {
             "children": "Text button",
             "className": "sc-bdVaJa fbAFpX",
             "disabled": false,
+            "onClick": [Function],
           },
           "ref": null,
           "rendered": Object {
@@ -10325,6 +10384,7 @@ ReactWrapper {
               "children": "Text button",
               "className": "sc-bdVaJa fbAFpX btn btn-default",
               "disabled": false,
+              "onClick": [Function],
               "type": "button",
             },
             "ref": null,

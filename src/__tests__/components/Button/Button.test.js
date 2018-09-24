@@ -57,11 +57,11 @@ describe('Button', () => {
 				/>,
 			);
 
-			const alex = wrapper.find('button').props();
+			const button = wrapper.find('button');
 
 			it('should invoke onClick when button is clicked', () => {
-				console.log('alex xD:', alex);
-				alex.simulate('click');
+				console.log('button:', button);
+				button.simulate('click');
 				expect(props.onClick).toBeCalled();
 			});
 		});
