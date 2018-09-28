@@ -1,4 +1,4 @@
-# Colba
+#Company Profile React
 
 This is a test
 
@@ -7,8 +7,8 @@ This is a test
 First download and install repo:
 
 ```sh
-git clone
-cd colba
+git company-profile-react
+cd company-profile-react
 npm install
 ```
 
@@ -18,7 +18,7 @@ We use json-server to mock api:
 First downloadd and install [json-server](https://github.com/typicode/json-server)
 
 ```sh
-cd colba/api
+cd company-profile-react/api
 json-server --watch db.json --routes routes.json --port 3001
 ```
 
