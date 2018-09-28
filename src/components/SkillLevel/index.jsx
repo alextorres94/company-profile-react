@@ -72,7 +72,7 @@ class SkillLevel extends Component {
 
 SkillLevel.propTypes = {
 	propriety: PropTypes.string,
-	level: PropTypes.string,
+	level: PropTypes.number,
 };
 
 export default SkillLevel;
