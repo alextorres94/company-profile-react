@@ -1,4 +1,4 @@
-#Company Profile React
+# Company Profile React
 
 This is a test
 
@@ -36,3 +36,7 @@ This repo use Jest to test
 ```sh
 npm jest
 ```
+
+# Create React App v2 project
+
+Working with [react-scripts 2.0.1](https://github.com/facebook/create-react-app/issues/5103)
